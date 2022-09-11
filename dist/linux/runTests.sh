@@ -1,0 +1,1 @@
+java -cp ../../build/ src.mains.TestMain

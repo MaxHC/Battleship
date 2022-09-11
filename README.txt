@@ -1,0 +1,1 @@
+use scripts in dist/windows or linux to compile and run the project or use dist/batailleNavale.jar
